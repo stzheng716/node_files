@@ -1,0 +1,506 @@
+<!DOCTYPE html>
+    <html lang="en">
+
+    <head>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+        
+            gtag('config', 'G-5T7M9LETYK');
+        </script>
+        <meta charset="utf-8" />
+        <title>Pottr.io || Enhance Your Online Security with Pottr.io's Deception Technology</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Deception technology as a service" />
+        <meta name="keywords" content="Pottr.io's simple dashboard is accessible via computers or mobile devices, allowing users to easily track, log, and take action on real security threats. Pottr.io offers features such as a geographical map showing the locations of threats, information on what vulnerabilities are being attacked, and threat levels that quickly show the risk of system breaches. Unlike other Security Information Event Management (SIEM) products, Pottr.io's affordable and easy-to-configure products provide valuable information to system administrators. Check out our beta product at https://pottr.io." />
+        <meta name="website" content="https://pottr.io/" />
+        <meta name="Version" content="v1.0" />
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:site" content="@pottrsec" />
+        <meta name="twitter:creator" content="@pottrsec" />
+        <meta property="og:url" content="https://pottr.io" />
+        <meta property="og:title" content="A Twitter for My Sister" />
+        <meta property="og:description" content="Pottr.io's simple dashboard is accessible via computers or mobile devices, allowing users to easily track, log, and take action on real security threats. Pottr.io offers features such as a geographical map showing the locations of threats, information on what vulnerabilities are being attacked, and threat levels that quickly show the risk of system breaches. Unlike other Security Information Event Management (SIEM) products, Pottr.io's affordable and easy-to-configure products provide valuable information to system administrators. Check out our beta product at https://pottr.io." />
+        <meta property="og:image" content="svg/icon.svg" />
+
+   
+
+        <!-- favicon -->
+        <link rel="shortcut icon" href="favicon.ico">
+        <!-- Bootstrap -->
+        <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+        <!-- Magnific -->
+        <link href="css/magnific-popup.css" rel="stylesheet" type="text/css" />
+        <!-- Icons -->
+        <link href="css/materialdesignicons.min.css" rel="stylesheet" type="text/css" />
+        <link rel="stylesheet" href="https://unicons.iconscout.com/release/v3.0.3/css/line.css">
+        <!-- Slider -->               
+        <link rel="stylesheet" href="css/owl.carousel.min.css"/> 
+        <link rel="stylesheet" href="css/owl.theme.default.min.css"/> 
+        <!-- Main Css -->
+        <link href="css/style.css" rel="stylesheet" type="text/css" id="theme-opt" />
+        <link href="css/colors/default.css" rel="stylesheet" id="color-opt">
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-5T7M9LETYK"></script>
+    
+
+    </head>
+
+    <body>
+        <!-- Loader -->
+        <!-- <div id="preloader">
+            <div id="status">
+                <div class="spinner">
+                    <div class="double-bounce1"></div>
+                    <div class="double-bounce2"></div>
+                </div>
+            </div>
+        </div> -->
+        <!-- Loader -->
+        
+        <!-- Navbar STart -->
+        <header id="topnav" class="defaultscroll sticky">
+            <div class="container">
+                <!-- Logo container-->
+                <div>
+                    <a class="logo" href="index.html">
+                        <img src="images/pottr-logo.svg" width="75" height="75" alt="Pottr logo"> Pottr
+                    </a>
+                </div>                 
+                <ul class="buy-button list-inline mb-0">
+                    
+                    <li class="list-inline-item mb-0 pr-1">
+                        <a href="https://github.com/ChrisIvie/Pottr-COMB" alt="Github for Pottr" class="btn btn-icon btn-soft-primary"><i class="mdi mdi-github mdi-18px icons"></i></a>
+                    </li>
+                   
+                </ul><!--end login button-->
+                <!-- End Logo container-->
+                <div class="menu-extras">
+                    <div class="menu-item">
+                        <!-- Mobile menu toggle-->
+                        <a class="navbar-toggle">
+                            <div class="lines">
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                            </div>
+                        </a>
+                        <!-- End mobile menu toggle-->
+                    </div>
+                </div>
+        
+                <div id="navigation">
+                    <!-- Navigation Menu-->   
+                    <ul class="navigation-menu">
+                        <li><a href="index.html">Home</a></li>
+                        <li class="has-submenu">
+                            <a href="javascript:void(0)">Deploy</a><span class="menu-arrow"></span>
+                            <ul class="submenu megamenu">
+                                <li>
+                                    <ul>
+                                        <li><a href="signup.php">Cloud</a></li>                                        
+                                        <li><a href="signup.php">Local</a></li>
+                                        <li><a href="#">Quick-setup (coming soon)</a></li>
+                                        
+
+                                        
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                        
+                        <li class="has-submenu">
+                            <a href="javascript:void(0)">Feedback</a><span class="menu-arrow"></span>
+                            <ul class="submenu megamenu">
+                                <li>
+                                    <ul>                                      
+                                        <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdidh5NVNjomoq_xzjufpGuFh_MSPeAWDyVRSugweTczqxZPg/viewform">Form</a></li>
+                                        
+
+                                        
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                        <li>
+                            <a href="/users/login.html">Login</a><span class="menu-arrow"></span>
+                            
+                        </li>
+                        
+        
+                        
+                    </ul><!--end navigation menu-->
+                    <!--end login button-->
+                </div><!--end navigation-->
+            </div><!--end container-->
+        </header><!--end header-->
+        <!-- Navbar End -->
+        
+        <!-- Hero Start -->
+        <section class="bg-half-170 d-table w-100 overflow-hidden" id="home">
+            <div class="container">
+                <div class="row align-items-center pt-5">
+                    <div class="col-lg-7 col-md-6">
+                        <div class="title-heading">
+                            <h1 class="heading mb-3">Deploy your <br> secure honeypot today.</h1>
+                            <p class="para-desc text-muted">See the attacker's physical location, internet service provider, botnet information and known malious domains.</p>
+                            <div class="mt-4 pt-2">
+                                <a href="https://forms.gle/LESVF9CZDkcxWUCY9" rel="noopener" target="_blank" class="btn btn-primary">Sign up for Hardware<span class="badge badge-pill badge-danger ml-2">v0.9</span></a>
+                            </div>
+                        </div>
+                    </div><!--end col-->
+
+                    <div class="col-lg-5 col-md-6 mt-4 pt-2 mt-sm-0 pt-sm-0">
+                        <div class="classic-saas-image position-relative">
+                            <div class="bg-saas-shape position-relative">
+                                <img src="images/saas/classic01.png" height="700px" right="-10px" class="mx-auto d-block" alt="Reports">
+                            </div>
+                        </div>
+                    </div><!--end col-->
+                </div><!--end row-->
+            </div><!--end container--> 
+        </section><!--end section-->
+        <!-- Hero End -->
+
+        <!-- Partners start -->
+        <section class="pt-5">
+            <div class="container">
+                <p class="text-muted text-center mb-0">Deploy on:</p>
+            </br>
+                <div class="row justify-content-center">
+                    
+
+                    <div class="col-lg-2 col-md-2 col-6 text-center">
+                        <img src="images/client/Google_Cloud_logo.svg" height="60px" width="150px" class="avatar" alt="Google Cloud">
+                    </div><!--end col-->
+
+                    <div class="col-lg-2 col-md-2 col-6 text-center">
+                        <img src="images/client/DigitalOcean_logo.svg" height="60px" width="150px" class="avatar" alt="Digital Ocean">
+                    </div><!--end col-->
+                    
+                    <div class="col-lg-2 col-md-2 col-6 text-center mt-4 mt-sm-0">
+                        <img src="images/client/AWS.svg" height="60px" width="150px" class="avatar" alt="AWS">
+                    </div><!--end col-->
+                    
+                    
+                </div><!--end row-->
+            </div><!--end container-->
+        </section><!--end section-->
+        <!-- Partners End -->
+
+        <!-- Section Start -->
+        <section class="section overflow-hidden">
+            <div class="container pb-5 mb-md-5">
+                <div class="row">
+                    <div class="col-md-4 col-12">
+                        <div class="features text-center">
+                            <div class="image position-relative d-inline-block">
+                                <i class="uil uil-user-check  h1 text-primary"></i>
+                            </div>
+
+                            <div class="content mt-4">
+                                <h5>Easy To Use</h5>
+                                <p class="text-muted mb-0">Deploy locally or in the cloud easily with our one-click setup.</p>
+                            </div>
+                        </div>
+                    </div><!--end col-->
+                    
+                    <div class="col-md-4 col-12 mt-5 mt-sm-0">
+                        <div class="features text-center">
+                            <div class="image position-relative d-inline-block">
+                                <i class="uil uil-location-point h1 text-primary"></i>
+                            </div>
+
+                            <div class="content mt-4">
+                                <h5>Attack Map</h5>
+                                <p class="text-muted mb-0">The Attack Map gather's location based off the attacker's IP address.</p>
+                            </div>
+                        </div>
+                    </div><!--end col-->
+                    
+                    <div class="col-md-4 col-12 mt-5 mt-sm-0">
+                        <div class="features text-center">
+                            <div class="image position-relative d-inline-block">
+                                <i class="uil uil-clock h1 text-primary"></i>
+                            </div>
+
+                            <div class="content mt-4">
+                                <h5>Real Time Detection's</h5>
+                                <p class="text-muted mb-0">See real time information on the IP's attacking your network, using open source tools we can capture open services along HTTP probes.</p>
+                            </div>
+                        </div>
+                    </div><!--end col-->
+                </div><!--end row-->
+            </div><!--end container-->
+
+            <div class="container pb-5 mb-md-5 mt-100 mt-60">
+                <div class="row align-items-center">
+                    <div class="col-lg-7">
+                        <div class="saas-feature-shape-left position-relative">
+                            <img src="images/saas/map.png" class="img-fluid mx-auto d-block rounded shadow" alt="Pottr Map">
+                        </div>
+                    </div><!--end col-->
+                    <!-- Update below! Last update: Feb 22 2023-->
+                    <div class="col-lg-5 mt-4 pt-2 mt-lg-0 pt-lg-0">
+                        <div class="section-title ml-lg-4">
+                            <h1 class="title mb-3">See attack locations in real-time, using Pottr.</h1>
+                            <p class="para-desc text-muted">See threats in the real world, search by country or city to see where attacks are coming from.</p>
+                            
+                            
+                            </div>
+                        </div>
+                    </div><!--end col-->
+                </div><!--end row-->
+            </div><!--end container-->
+
+            <div class="container mt-100 mt-60">
+                <div class="row align-items-center">
+                    <div class="col-lg-5 order-2 order-lg-1 mt-4 pt-2 mt-lg-0 pt-lg-0">
+                        <div class="section-title mr-lg-4">
+                            <h1 class="title mb-3">Why Choose Pottr?</h1>
+                            <p class="para-desc text-muted">Pottr uses free open-source tools to scan threats, customize your settings to create a scanning schedule, scan intensity and more!</p>
+                        
+                            <div class="row">
+                                <div class="col-12">
+                                    <div class="d-flex align-items-center pt-4">
+                                        <h2><i data-feather="shield" class="fea icon-m-md text-primary"></i></h2>
+                                        <div class="ml-3">
+                                            <h5>Secure by design</h5>
+                                            <p class="text-muted mb-0">Wether you deploy locally or in the cloud, Pottr will never compromise your network security</p>
+                                        </div>
+                                    </div>
+                                </div><!--end col-->
+    
+                                <div class="col-12">
+                                    <div class="d-flex align-items-center pt-4">
+                                        <h2><i data-feather="cpu" class="fea icon-m-md text-primary"></i></h2>
+                                        <div class="ml-3">
+                                            <h5>Quick results</h5>
+                                            <p class="text-muted mb-0">With on-device scanning, we get the results faster so you can take action quicker.</p>
+                                        </div>
+                                    </div>
+                                </div><!--end col-->
+    
+                                <div class="col-12 pt-4">
+                                    <a href="signup.php" class="btn btn-outline-primary">Sign Up<i class="mdi mdi-chevron-right"></i></a>
+                                </div><!--end col-->
+                            </div>
+                        </div>
+                    </div><!--end col-->
+                    
+                    <div class="col-lg-7 order-1 order-lg-2">
+                        <div class="saas-feature-shape-right position-relative">
+                            <img src="images/reports.png" height="120%" width="120%" class=" mx-auto d-block rounded shadow" alt="Reports">
+                        </div>
+                    </div><!--end col-->
+                </div><!--end row-->
+            </div><!--end container-->
+
+            <div class="container pt-4 mt-100 mt-60">
+                <div class="row justify-content-center" id="counter">
+                    <div class="col-12 text-center">
+                        <div class="section-title">
+                            <h4 class="title mb-4"> <span class="text-primary"><span class="counter-value" data-count="50">50</span>k+</span> threats detected using Pottr</h4>
+                            <p class="text-muted para-desc mx-auto mb-0">Detected threats are stored locally, this is never sent to Pottr servers or elsewhere.</p>
+                        
+                            <div class="watch-video mt-4">
+                                <a href="signup.php" class="btn btn-primary m-1">Sign up now!<i class="mdi mdi-chevron-right"></i></a>
+                            </div>
+                        </div>
+                    </div><!--end col-->
+                </div><!--end row-->
+            </div><!--end container-->
+
+            <div class="container mt-100 mt-60">
+                <div class="row justify-content-center">
+                    <div class="col-12 text-center">
+                        <div class="section-title mb-4 pb-2">
+                            <h4 class="title mb-4">Our Pricing Rates</h4>
+                            <p class="text-muted para-desc mb-0 mx-auto">Check out our <span class="text-primary font-weight-bold">founders</span> package below for a lifetime discount!</p>
+                        </div>
+                    </div><!--end col-->
+                </div><!--end row-->
+
+                <div class="row">
+                    <div class="col-lg-3 col-md-6 col-12 mt-4 pt-2">
+                        <div class="card pricing-rates business-rate shadow bg-light border-0 rounded">
+                            <div class="ribbon ribbon-right ribbon-warning overflow-hidden"><span class="text-center d-block shadow small h6">Beta</span></div>
+                            <div class="card-body">
+                                <h6 class="title font-weight-bold text-uppercase text-primary mb-4">Free</h6>
+                                <div class="d-flex mb-4">
+                                    <span class="h4 mb-0 mt-2">$</span>
+                                    <span class="price h1 mb-0">0</span>
+                                    <span class="h4 align-self-end mb-1">/mo</span>
+                                </div>
+                                
+                                <ul class="list-unstyled mb-0 pl-0">
+                                    <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uil uil-check-circle align-middle"></i></span>Full Pottr API access</li>
+                                    <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uil uil-check-circle align-middle"></i></span>Pottr source code</li>
+                                </ul>
+                                <a href="signup.php" class="btn btn-primary mt-4">Sign up for free!</a>
+                            </div>
+                        </div>
+                    </div><!--end col-->
+                    
+                    <div class="col-lg-3 col-md-6 col-12 mt-4 pt-2">
+                        <div class="card pricing-rates business-rate shadow bg-white border-0 rounded">
+                            <div class="card-body">
+                                <h6 class="title font-weight-bold text-uppercase text-primary mb-4">Starter</h6>
+                                <div class="d-flex mb-4">
+                                    <span class="h4 mb-0 mt-2">$</span>
+                                    <span class="price h1 mb-0">5</span>
+                                    <span class="h4 align-self-end mb-1">/mo</span>
+                                </div>
+
+                                <ul class="list-unstyled mb-0 pl-0">
+                                    <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uil uil-check-circle align-middle"></i></span>Full Pottr API access</li>
+                                    <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uil uil-check-circle align-middle"></i></span>Pottr Source code</li>
+                                    <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uil uil-check-circle align-middle"></i></span>Deploy on AWS, google or Digital ocean.</li>
+                                </ul>
+                                <a href="javascript:void(0)" class="btn btn-primary mt-4">Coming soon</a>
+                            </div>
+                        </div>
+                    </div><!--end col-->
+                    
+                    <div class="col-lg-3 col-md-6 col-12 mt-4 pt-2">
+                        <div class="card pricing-rates business-rate shadow bg-light border-0 rounded">
+                            <div class="card-body">
+                                <h6 class="title font-weight-bold text-uppercase text-primary mb-4">Founder</h6>
+                                <div class="d-flex mb-4">
+                                    <span class="h4 mb-0 mt-2">$</span>
+                                    <span class="price h1 mb-0">15</span>
+                                    <span class="h4 align-self-end mb-1">/mo</span>
+                                </div>
+                                
+                                <ul class="list-unstyled mb-0 pl-0">
+                                    <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uil uil-check-circle align-middle"></i></span>Full Pottr API access</li>
+                                    <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uil uil-check-circle align-middle"></i></span>Pottr Source code</li>
+                                    <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uil uil-check-circle align-middle"></i></span>Pottr Hardware</li>
+                                </ul>
+                                <a href="https://forms.gle/LESVF9CZDkcxWUCY9" class="btn btn-primary mt-4">Beta sign up</a>
+                            </div>
+                        </div>
+                    </div><!--end col-->
+                    
+                    <div class="col-lg-3 col-md-6 col-12 mt-4 pt-2">
+                        <div class="card pricing-rates business-rate shadow bg-light border-0 rounded">
+                            <div class="card-body">
+                                <h6 class="title font-weight-bold text-uppercase text-primary mb-4">Enterprise</h6>
+                                <div class="d-flex mb-4">
+                                    <span class="h4 mb-0 mt-2">$</span>
+                                    <span class="price h1 mb-0">30</span>
+                                    <span class="h4 align-self-end mb-1">/mo</span>
+                                </div>
+                                
+                                <ul class="list-unstyled mb-0 pl-0">
+                                    <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uil uil-check-circle align-middle"></i></span>Full Pottr API access (coming soon)</li>
+                                    <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uil uil-check-circle align-middle"></i></span>Pottr Source code</li>
+                                    <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uil uil-check-circle align-middle"></i></span>Deploy on AWS, google or Digital ocean.</li>
+                                    <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uil uil-check-circle align-middle"></i></span>Pottr Hardware</li>
+                                    <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uil uil-check-circle align-middle"></i></span>Unlimited deployment's</li>
+                                    <li class="h6 text-muted mb-0"><span class="text-primary h5 mr-2"><i class="uil uil-check-circle align-middle"></i></span>24/7 Support</li>
+                                </ul>
+                                <a href="javascript:void(0)" class="btn btn-primary mt-4">Coming soon</a>
+                            </div>
+                        </div>
+                    </div><!--end col-->
+                </div><!--end row-->
+            </div><!--end container-->
+
+           
+        </section><!--end section-->
+        <!-- Section End -->
+
+        <!-- Footer Start -->
+        <footer class="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-4 col-12 mb-0 mb-md-4 pb-0 pb-md-2">
+                        <a href="#" class="logo-footer text-white">
+                            <img class="invert" src="images/pottr-logo.png" height="75" alt="pottr-logo">Pottr
+                        </a>
+                    
+                        <p class="mt-4">Stay one step ahead of attackers with Pottr's secure honeypot technology.</p>
+                        <ul class="list-unstyled social-icon social mb-0 mt-4">
+                            <!--
+                            <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i data-feather="facebook" class="fea icon-sm fea-social"></i></a></li>
+                            <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i data-feather="instagram" class="fea icon-sm fea-social"></i></a></li>
+                            <li class="list-inline-item"><a href="javascript:void(0)" class="rounded"><i data-feather="linkedin" class="fea icon-sm fea-social"></i></a></li>
+                        -->
+                            <li class="list-inline-item"><a href="https://twitter.com/pottrsec" class="rounded"><i data-feather="twitter" class="fea icon-sm fea-social"></i></a></li>
+
+                        </ul><!--end icon-->
+                    </div><!--end col-->
+                    
+                    <!--
+                    <div class="col-lg-2 col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
+                        <h5 class="text-light footer-head">Company</h5>
+                        <ul class="list-unstyled footer-list mt-4">
+                            <li><a href="page-aboutus.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> About us</a></li>
+                            <li><a href="page-services.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Services</a></li>
+                            <li><a href="page-team.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Team</a></li>
+                            <li><a href="page-pricing.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Pricing</a></li>
+                            <li><a href="page-portfolio-modern.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Project</a></li>
+                            <li><a href="page-jobs.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Careers</a></li>
+                            <li><a href="page-blog-grid.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Blog</a></li>
+                            <li><a href="auth-cover-login.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Login</a></li>
+                        </ul>
+                    </div>
+                    -->
+                    <!--end col-->
+                    
+                    <div class="col-lg-3 col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
+                        <h5 class="text-light footer-head">About</h5>
+                        <ul class="list-unstyled footer-list mt-4">
+                            <li><a href="page-terms.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Terms of Services</a></li>
+                            <li><a href="page-privacy.html" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Privacy Policy</a></li>
+                            <li><a href="$" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Documentation</a></li>
+                            <li><a href="#" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Changelog</a></li>
+                            <li><a href="mailto:support@pottr.io" class="text-foot"><i class="mdi mdi-chevron-right mr-1"></i> Contact</a></li>
+                        </ul>
+                    </div><!--end col-->
+
+
+                </div><!--end row-->
+            </div><!--end container-->
+        </footer><!--end footer-->
+        <footer class="footer footer-bar">
+            <div class="container text-center">
+                <div class="row align-items-center">
+                    <div class="col-sm-6">
+                        <div class="text-sm-left">
+                            <p class="mb-0">© <script>document.write(new Date().getFullYear())</script> PottrSec. Made with <i class="mdi mdi-heart text-danger"></i> in Salt Lake, Utah, USA.</p>
+                        </div>
+                    </div><!--end col-->
+
+                    
+                </div><!--end row-->
+            </div><!--end container-->
+        </footer><!--end footer-->
+        <!-- Footer End -->
+
+        <!-- Back to top -->
+        <a href="#" class="btn btn-icon btn-primary back-to-top"><i data-feather="arrow-up" class="icons"></i></a>
+        <!-- Back to top -->
+
+        <!-- javascript -->
+        <script src="js/jquery-3.5.1.min.js"></script>
+        <script src="js/bootstrap.bundle.min.js"></script>
+        <script src="js/jquery.easing.min.js"></script>
+        <script src="js/scrollspy.min.js"></script>
+        <!-- Magnific Popup -->
+        <script src="js/jquery.magnific-popup.min.js"></script>
+        <script src="js/magnific.init.js"></script>
+        <!-- SLIDER -->
+        <script src="js/owl.carousel.min.js "></script>
+        <script src="js/owl.init.js "></script>
+        <!-- Counter -->
+        <script src="js/counter.init.js"></script>
+        <!-- Icons -->
+        <script src="js/feather.min.js"></script>
+        <script src="https://unicons.iconscout.com/release/v3.0.3/script/monochrome/bundle.js"></script>
+        <!-- Main Js -->
+        <script src="js/app.js"></script>
+    </body>
+</html>
